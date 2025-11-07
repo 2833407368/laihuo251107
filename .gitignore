@@ -3,3 +3,4 @@ output/FTP/*.png
 output/WPT/*.png
 output/时频图/FFT/*.png
 output/时频图/WPT/*.png
+/output/feature/*.png
